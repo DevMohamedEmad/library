@@ -20,7 +20,7 @@ composer install
 
 Generate laravel unique key
 ```bash
-php artisan key:gegerate
+php artisan key:generate
 ```
 
 
